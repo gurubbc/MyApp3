@@ -8,6 +8,7 @@ public class TestProduct {
 		System.out.println("This is built through jenkins");
 		System.out.println("This is just amazing");
 		System.out.println("Integration from github to jenkins Aug 6 - 2020");
+		System.out.println("2nd try...it should success");
 
 	}
 
